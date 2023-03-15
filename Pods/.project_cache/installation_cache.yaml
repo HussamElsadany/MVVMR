@@ -1,0 +1,119 @@
+BUILD_CONFIGURATIONS:
+  Debug: :debug
+  Release: :release
+CACHE_KEYS:
+  BaseRepo:
+    BUILD_SETTINGS_CHECKSUM:
+      BaseRepo:
+        :debug: f4054b86a120ff35ede471cb3915b94f
+        :release: f4054b86a120ff35ede471cb3915b94f
+    CHECKSUM: 257c935c5c9568d4d5804a66b6c13dcc52d4c313
+    FILES:
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepoProtocol.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/CachingPolicy.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Local/LocalDataSource.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Local/LocalDataSourceProtocol.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Remote/RemoteDataSource.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Remote/RemoteDataSourceProtocol.swift"
+      - "../Libraries/Core/BaseRepo/BaseRepo/Classes/RepoProtocol.swift"
+    PROJECT_NAME: BaseRepo
+    SPECS:
+      - BaseRepo (0.1.0)
+  Bindable:
+    BUILD_SETTINGS_CHECKSUM:
+      Bindable:
+        :debug: fe50ea728b9ae33fa0a213ca84bccffe
+        :release: fe50ea728b9ae33fa0a213ca84bccffe
+    CHECKSUM: 0753820e7b4e619ebadbf914e4dcf678af7457a9
+    FILES:
+      - "../Libraries/Core/Bindable/Bindable/Classes/Bindable.swift"
+    PROJECT_NAME: Bindable
+    SPECS:
+      - Bindable (0.1.0)
+  CoreError:
+    BUILD_SETTINGS_CHECKSUM:
+      CoreError:
+        :debug: 459536d292b2481bd9727d9d84fa3cf3
+        :release: 459536d292b2481bd9727d9d84fa3cf3
+    CHECKSUM: f4605fbb6fea6e3e6dc1b51b917f7f185e13b7f3
+    FILES:
+      - "../Libraries/Core/CoreError/CoreError/Classes/CoreError+URLSession.swift"
+      - "../Libraries/Core/CoreError/CoreError/Classes/CoreError.swift"
+    PROJECT_NAME: CoreError
+    SPECS:
+      - CoreError (0.1.0)
+  CoreNetworking:
+    BUILD_SETTINGS_CHECKSUM:
+      CoreNetworking:
+        :debug: 91e09123b832767ea01189d5182647b6
+        :release: 91e09123b832767ea01189d5182647b6
+      CoreNetworking/CoreNetworkingTests:
+        :debug: 8f8a6605bc65b2b4e5dba75e0eb3eaca
+        :release: 8f8a6605bc65b2b4e5dba75e0eb3eaca
+    CHECKSUM: c32a93a5fe31039b08b0f4eb559f64e3aa960987
+    FILES:
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Classes/EndpointProtocol.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Classes/HttpHeader.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Classes/HTTPMethod.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Classes/RestService.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Classes/ResultDecoder.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Classes/URLSession + Task.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Tests/EndpointTests.swift"
+      - "../Libraries/Core/CoreNetworking/CoreNetworking/Tests/Mocks/MockedEndPoint.swift"
+    PROJECT_NAME: CoreNetworking
+    SPECS:
+      - CoreNetworking (0.1.0)
+      - CoreNetworking/CoreNetworkingTests (0.1.0)
+  Pods-MVVMR:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: 033594b2651c7aeca041cb0163c5751e
+      Release: 033594b2651c7aeca041cb0163c5751e
+  Pods-MVVMRTests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: a44bcbdc62ecdcff23c3a1fbbd61884f
+      Release: a44bcbdc62ecdcff23c3a1fbbd61884f
+  Pods-MVVMRUITests:
+    BUILD_SETTINGS_CHECKSUM:
+      Debug: d987639c4872eeb953a8364691f6bcbf
+      Release: d987639c4872eeb953a8364691f6bcbf
+  StateUIModel:
+    BUILD_SETTINGS_CHECKSUM:
+      StateUIModel:
+        :debug: ebd2bd146a76e41745b8de834557319f
+        :release: ebd2bd146a76e41745b8de834557319f
+    CHECKSUM: 40dedd2fe2d6b2b87fb3143036d73aae1acf3083
+    FILES:
+      - "../Libraries/Core/StateUIModel/StateUIModel/Classes/StateUIModel/BaseUIModel.swift"
+      - "../Libraries/Core/StateUIModel/StateUIModel/Classes/StateUIModel/StateUIModel.swift"
+    PROJECT_NAME: StateUIModel
+    SPECS:
+      - StateUIModel (0.1.0)
+  Utils:
+    BUILD_SETTINGS_CHECKSUM:
+      Utils:
+        :debug: ed2bd4fe8cf02604a90c5c8f334d8521
+        :release: ed2bd4fe8cf02604a90c5c8f334d8521
+    CHECKSUM: 013c078b04e8d3c626efd29290eb7e930a96a862
+    FILES:
+      - "../Libraries/Core/Utils/Utils/Classes/Utils/Array/Array.swift"
+    PROJECT_NAME: Utils
+    SPECS:
+      - Utils (0.1.0)
+INSTALLATION_OPTIONS:
+  clean: true
+  deduplicate_targets: true
+  deterministic_uuids: false
+  disable_input_output_paths: false
+  generate_multiple_pod_projects: true
+  incremental_installation: true
+  integrate_targets: true
+  lock_pod_sources: true
+  preserve_pod_file_structure: true
+  share_schemes_for_development_pods: true
+  skip_pods_project_generation: false
+  warn_for_multiple_pod_sources: true
+  warn_for_unused_master_specs_repo: true
+OBJECT_VERSION: 55
+PLUGINS:
+  {}

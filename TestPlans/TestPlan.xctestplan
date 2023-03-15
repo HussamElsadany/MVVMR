@@ -1,0 +1,39 @@
+{
+  "configurations" : [
+    {
+      "id" : "B430747D-0FFD-45B8-B1C3-81E0CDF1C81A",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Pods\/CoreNetworking.xcodeproj",
+        "identifier" : "E79BBA82E42676AAEB4177A857910507",
+        "name" : "CoreNetworking-Unit-CoreNetworkingTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:MVVMR.xcodeproj",
+        "identifier" : "C4ED0C27288D43B5003535DA",
+        "name" : "MVVMRTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:MVVMR.xcodeproj",
+        "identifier" : "C4ED0C31288D43B5003535DA",
+        "name" : "MVVMRUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

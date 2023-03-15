@@ -1,0 +1,49 @@
+PODS:
+  - BaseRepo (0.1.0):
+    - CoreError
+    - CoreNetworking
+  - Bindable (0.1.0)
+  - CoreError (0.1.0)
+  - CoreNetworking (0.1.0):
+    - CoreError
+  - CoreNetworking/CoreNetworkingTests (0.1.0):
+    - CoreError
+  - StateUIModel (0.1.0):
+    - CoreError
+  - Utils (0.1.0):
+    - CoreError
+
+DEPENDENCIES:
+  - BaseRepo (from `./Libraries/Core/BaseRepo`)
+  - Bindable (from `./Libraries/Core/Bindable`)
+  - CoreError (from `./Libraries/Core/CoreError`)
+  - CoreNetworking (from `./Libraries/Core/CoreNetworking`)
+  - CoreNetworking/CoreNetworkingTests (from `./Libraries/Core/CoreNetworking`)
+  - StateUIModel (from `./Libraries/Core/StateUIModel`)
+  - Utils (from `./Libraries/Core/Utils`)
+
+EXTERNAL SOURCES:
+  BaseRepo:
+    :path: "./Libraries/Core/BaseRepo"
+  Bindable:
+    :path: "./Libraries/Core/Bindable"
+  CoreError:
+    :path: "./Libraries/Core/CoreError"
+  CoreNetworking:
+    :path: "./Libraries/Core/CoreNetworking"
+  StateUIModel:
+    :path: "./Libraries/Core/StateUIModel"
+  Utils:
+    :path: "./Libraries/Core/Utils"
+
+SPEC CHECKSUMS:
+  BaseRepo: 257c935c5c9568d4d5804a66b6c13dcc52d4c313
+  Bindable: 0753820e7b4e619ebadbf914e4dcf678af7457a9
+  CoreError: f4605fbb6fea6e3e6dc1b51b917f7f185e13b7f3
+  CoreNetworking: c32a93a5fe31039b08b0f4eb559f64e3aa960987
+  StateUIModel: 40dedd2fe2d6b2b87fb3143036d73aae1acf3083
+  Utils: 013c078b04e8d3c626efd29290eb7e930a96a862
+
+PODFILE CHECKSUM: a175e80f624126337354167d26cbd1392d63069f
+
+COCOAPODS: 1.11.3

@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-MVVMR/Pods-MVVMR-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BaseRepo/BaseRepo.framework
+${BUILT_PRODUCTS_DIR}/Bindable/Bindable.framework
+${BUILT_PRODUCTS_DIR}/CoreError/CoreError.framework
+${BUILT_PRODUCTS_DIR}/CoreNetworking/CoreNetworking.framework
+${BUILT_PRODUCTS_DIR}/StateUIModel/StateUIModel.framework
+${BUILT_PRODUCTS_DIR}/Utils/Utils.framework

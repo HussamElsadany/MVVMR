@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/CoreNetworking/CoreNetworking-Unit-CoreNetworkingTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CoreNetworking/CoreNetworking.framework
+${BUILT_PRODUCTS_DIR}/CoreError/CoreError.framework

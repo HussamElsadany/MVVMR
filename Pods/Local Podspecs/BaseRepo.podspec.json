@@ -1,0 +1,29 @@
+{
+  "name": "BaseRepo",
+  "version": "0.1.0",
+  "summary": "A short description of BaseRepo.",
+  "description": "This is our first pod to try breaking our project into smaller modules and reuse it",
+  "homepage": "https://github.com/elmenus/ios-app.git",
+  "authors": {
+    "ios-team": "ios-team@elmenus.com"
+  },
+  "source": {
+    "git": "https://github.com/elmenus/ios-app.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source_files": [
+    "BaseRepo/Classes/**/*.*",
+    "README.md"
+  ],
+  "dependencies": {
+    "CoreError": [
+
+    ],
+    "CoreNetworking": [
+
+    ]
+  }
+}

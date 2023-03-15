@@ -1,0 +1,6 @@
+framework module StateUIModel {
+  umbrella header "StateUIModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

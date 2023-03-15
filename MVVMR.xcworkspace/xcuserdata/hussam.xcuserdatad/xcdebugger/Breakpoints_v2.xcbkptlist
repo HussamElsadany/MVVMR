@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EC044491-0AE3-41D4-9F1F-6729A831067F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "203A4D78-1C04-429B-8B15-078DF3C0EED5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Local/LocalDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getData(endpoint:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB455DA4-3F19-43A7-85B9-7B8A4F0635D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Local/LocalDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "saveData(endpoint:data:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6E52527-7B12-4E40-BCFF-AC54552F5AFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getData(endpoint:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "251109A0-8BEA-4718-9C9C-F5DD879F41B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "fetchRemoteFirst(endpoint:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "251109A0-8BEA-4718-9C9C-F5DD879F41B1 - ff7d7f5f8c56f2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; () in BaseRepo.CacheRepo.fetchRemoteFirst&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BaseRepo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "341">
+               </Location>
+               <Location
+                  uuid = "251109A0-8BEA-4718-9C9C-F5DD879F41B1 - ff7d7f5f8c56f2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; () in BaseRepo.CacheRepo.fetchRemoteFirst&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BaseRepo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "359">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE0812CE-8DA2-4AB7-9F59-528C202441C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/DataSource/Remote/RemoteDataSource.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "getData(endpoint:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD47C890-FD3F-4828-8AEA-4C4B3250E5A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/CoreNetworking/CoreNetworking/Classes/RestService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "request(endpoint:deliverQueue:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DD47C890-FD3F-4828-8AEA-4C4B3250E5A4 - 5c76e5db4a9c4641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreNetworking.RestService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, deliverQueue: __C.OS_dispatch_queue, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoreNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/CoreNetworking/CoreNetworking/Classes/RestService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  uuid = "DD47C890-FD3F-4828-8AEA-4C4B3250E5A4 - 5c76e5db4a9c4641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreNetworking.RestService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, deliverQueue: __C.OS_dispatch_queue, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoreNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/CoreNetworking/CoreNetworking/Classes/RestService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "613">
+               </Location>
+               <Location
+                  uuid = "DD47C890-FD3F-4828-8AEA-4C4B3250E5A4 - 5c76e5db4a9c4641"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoreNetworking.RestService.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, deliverQueue: __C.OS_dispatch_queue, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CoreNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/CoreNetworking/CoreNetworking/Classes/RestService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1023">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F2BC8D7-98B8-4ABE-A2F2-3F8EE43B4B53"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/CoreNetworking/CoreNetworking/Classes/URLSession + Task.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "dataTask(with:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F2BC8D7-98B8-4ABE-A2F2-3F8EE43B4B53 - 68e55709fa796e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.NSURLSession.dataTask(with: Foundation.URLRequest, completion: (Swift.Result&lt;Foundation.Data, CoreError.CoreError&gt;) -&gt; ()) -&gt; __C.NSURLSessionDataTask"
+                  moduleName = "CoreNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/CoreNetworking/CoreNetworking/Classes/URLSession%20+%20Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "305">
+               </Location>
+               <Location
+                  uuid = "9F2BC8D7-98B8-4ABE-A2F2-3F8EE43B4B53 - 68e55709fa796e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.NSURLSession.dataTask(with: Foundation.URLRequest, completion: (Swift.Result&lt;Foundation.Data, CoreError.CoreError&gt;) -&gt; ()) -&gt; __C.NSURLSessionDataTask"
+                  moduleName = "CoreNetworking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/CoreNetworking/CoreNetworking/Classes/URLSession%20+%20Task.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "501">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6061687-2082-4587-86FD-ADA7723F3F58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(cachePolicy:local:remote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3ED0EFC0-534D-4711-B841-FB7D7D1F9A5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getCachedFirst(endpoint:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3ED0EFC0-534D-4711-B841-FB7D7D1F9A5A - f0dbc7a8f8ac3fd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BaseRepo.CacheRepo.getCachedFirst&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BaseRepo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "133">
+               </Location>
+               <Location
+                  uuid = "3ED0EFC0-534D-4711-B841-FB7D7D1F9A5A - 853f6a39ff002b86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; () in BaseRepo.CacheRepo.getCachedFirst&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BaseRepo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "315">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D5567FF-0416-4C2F-BA48-1B7CDBE6C4FA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getCachedFirst(endpoint:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D5567FF-0416-4C2F-BA48-1B7CDBE6C4FA - 853f6a39ff002ba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; () in BaseRepo.CacheRepo.getCachedFirst&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BaseRepo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "361">
+               </Location>
+               <Location
+                  uuid = "3D5567FF-0416-4C2F-BA48-1B7CDBE6C4FA - 853f6a39ff002ba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; () in BaseRepo.CacheRepo.getCachedFirst&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(endpoint: CoreNetworking.EndpointProtocol, completion: (Swift.Result&lt;&#x3c4;_0_0, CoreError.CoreError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BaseRepo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hussam/Downloads/elmenus-ios-templates-master/MVVMR/Libraries/Core/BaseRepo/BaseRepo/Classes/CacheRepo/CacheRepo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,6 @@
+framework module CoreError {
+  umbrella header "CoreError-umbrella.h"
+
+  export *
+  module * { export * }
+}
